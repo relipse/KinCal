@@ -1,0 +1,2 @@
+//this is a comment line
+//each event starts with a date and optionally a time followed by a pipe | and the description
